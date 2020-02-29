@@ -39,7 +39,7 @@
 
 /* Sets the actual background images to adorable kitties. This part is crucial. */
 .bg-main::after {
-  background-image: url('../images/capa.main.jpg');
+  background-image: url('../images/bg_all.png');
   background-position: center; 
   background-size: cover; 
 }
