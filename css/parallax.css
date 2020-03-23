@@ -69,6 +69,12 @@
   background-size: cover; 
 }
 
+.bg-2020::after {
+  background-image: url('../images/capa.perdidos.png');
+  background-position: center; 
+  background-size: cover; 
+}
+
 .bg1::after {
   background-image: url('../../images/bg_banco.png');
   background-position: center; 
